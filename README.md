@@ -1,7 +1,10 @@
 # dsfut-client
 Um cliente para consumir uma api REST do dsfut
 
-#  Técnologias Utilizadas
+## Técnologias Utilizadas
 - HTML
 - CSS
 - Javascript
+- Typescript
+- NPM
+- Bootstrap
